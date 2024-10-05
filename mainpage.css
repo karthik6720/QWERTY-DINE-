@@ -1,0 +1,37 @@
+.outbox{
+    border: solid 1px;
+    height:700px;
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1550px 700px;
+}
+#nav{
+    border: solid 1px white;
+    height: 50px;
+    line-height: 50px;
+}
+#in{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    padding-right: 25px;
+    font-weight: bold;
+}
+.out{
+    border: solid 1px white;
+    height: 450px;
+}
+#qwerty{
+    color: rgb(231, 8, 8);
+    font-size: 55px;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 3px 3px 5px white;
+}
+#menu{
+    border: solid 1px;
+    height: 350px;
+}
+#image{
+    border-radius: 50%;
+}

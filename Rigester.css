@@ -1,0 +1,39 @@
+body{
+    background-image: url(gojo.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+}
+form{
+    border: solid 1px white;
+    width: 500px;
+    background-color: rgba(250, 235, 215, 0.637);
+    margin-left: 500px;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+label{
+    font-size: 15px;
+    color:black;
+    font-weight: bold;
+}
+input{
+    width: 300px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+button{
+    height: 30px;
+    width: 150px;
+    background-color:blue;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px;
+}
+p{
+    color: rgb(27, 2, 2);
+    font-size: 20px;
+
+}
